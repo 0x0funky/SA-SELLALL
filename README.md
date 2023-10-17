@@ -16,6 +16,8 @@ REFERRER_ADDRESS = 0xC4E60DeA79C45340a850Fa7E0cCa37C73dB86Fa3
 ```
 REFERRER是邀請碼地址, 目前設定我的, 當作我做這個腳本的Donate
 如果你不願意你可以改成自己的 (反傭給自己)
+CONTRACT_ADDRESS目前是看SA審計新的Contract設定的, 最後可能不是這個合約
+請關注官方或是等人公布
 
 ## PRIVATE_KEY怎麼找?
 到 "https://starsarena.com/wallet" 按 ""
