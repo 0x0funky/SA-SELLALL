@@ -23,6 +23,11 @@ REFERRER_ADDRESS = 0xC4E60DeA79C45340a850Fa7E0cCa37C73dB86Fa3
 * CONTRACT_ADDRESS目前是看SA審計新的Contract設定的, 最後可能不是這個合約
 請關注官方或是等人公布
 
+## How to run
+```
+python main.py
+```
+
 ## PRIVATE_KEY怎麼找?
 到 "https://starsarena.com/wallet" 按 "Export Private Key"
 ![How to find Bearer Key](images/private_keys.png)
