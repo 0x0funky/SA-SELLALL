@@ -20,8 +20,7 @@ REFERRER_ADDRESS = 0x3db941784283891a0e78144c0f3e262afc838bad
 ```
 * REFERRER是邀請碼地址, 目前Default是設定我的, 當作我做這個腳本的Donate
 如果你不願意你可以改成自己的 (等於反傭給自己)
-* CONTRACT_ADDRESS目前是看SA審計新的Contract設定的, 最後可能不是這個合約
-請關注官方或是等人公布
+* CONTRACT_ADDRESS已確定
 
 ## How to run
 ```
