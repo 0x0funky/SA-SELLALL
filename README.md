@@ -16,7 +16,7 @@ pip install web3==5.23.0
 PRIVATE_KEY = your_private_key_here
 BEARER_KEY = your_bearer_key_here
 CONTRACT_ADDRESS = 0x563395A2a04a7aE0421d34d62ae67623cAF67D03
-REFERRER_ADDRESS = 0xC4E60DeA79C45340a850Fa7E0cCa37C73dB86Fa3
+REFERRER_ADDRESS = 0x3db941784283891a0e78144c0f3e262afc838bad
 ```
 * REFERRER是邀請碼地址, 目前Default是設定我的, 當作我做這個腳本的Donate
 如果你不願意你可以改成自己的 (等於反傭給自己)
