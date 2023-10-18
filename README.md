@@ -28,7 +28,8 @@ python main.py
 ```
 
 ## PRIVATE_KEY怎麼找?
-到 "https://starsarena.com/wallet" 按 "Export Private Key"
+因為每個人都需要Migrate到新錢包才能交易
+先到 "https://starsarena.com/wallet" 按"Migrate" => "Export Private Key"
 ![How to find Bearer Key](images/private_keys.png)
 
 ## Bearer_Key怎麼找?
