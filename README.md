@@ -36,8 +36,8 @@ python main.py
 到 "https://starsarena.com/shares" 按F12, 選擇Network, 然後重新整理, 找到下面這張圖的地方, 複製Bearer Key到程式碼中
 ![How to find Bearer Key](images/Bearer_keys.png)
 
-## CONTRACT_ADDRESS怎麼找?
-只能等官方公布或是有人提供了 (我會在我的FT ROOM隨時告知)
+## CONTRACT_ADDRESS怎麼找 (已確定)?
+已確定 : 0x563395A2a04a7aE0421d34d62ae67623cAF67D03
 
 Produce by 0xFunky
 FT: https://friend.tech/0x0funky
